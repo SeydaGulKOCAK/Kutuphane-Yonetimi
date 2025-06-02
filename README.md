@@ -3,7 +3,7 @@ Bu proje, Java ile geliştirilmiş temel bir kütüphane yönetim sistemi uygula
 
 Proje Dosyaları ve Fonksiyonları:
 BirinciProjem.java (Main Class)
-Uygulamanın giriş noktasıdır. Programın akışını yönetir ve diğer sınıflardaki fonksiyonları çağırarak kullanıcı işlemlerini koordine eder.
+Uygulamanın giriş noktasıdır. 
 
 Kutu.java
 Ana menüyü oluşturur ve kullanıcıdan gelen kitap işlemleriyle ilgili seçimleri alır.
